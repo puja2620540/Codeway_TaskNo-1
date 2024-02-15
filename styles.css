@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#cee1f0;
+}
+
+header {
+    background-color:#03080d;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo img {
+    width: 80px; /* Adjust the size of your logo */
+    height: auto;
+}
+
+.tagline p {
+    margin: 20px 0;
+}
+
+section {
+    padding: 40px;
+}
+#about img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.skill-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project img {
+    max-width: 100%;
+}
+
+.resume-link a {
+    color: #333;
+    text-decoration: none;
+}
+
+.resume-link a:hover {
+    text-decoration: underline;
+}
+
+.contact-info p {
+    margin: 10px 0;
+}
+
+footer {
+    background-color:#03080d;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
